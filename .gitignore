@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+gerenciar-contatos/contatos-vcard/contackts.vcf
+gerenciar-contatos/contatos-vcard/contacts (1).vcf
+gerenciar-contatos/contatos-vcard/contacts.vcf
+gerenciar-contatos/contatos-vcard/contatos-em-json/contatos.json
+gerenciar-contatos/contatos-vcard/contatos-em-json/contatos2.json
+gerenciar-contatos/contatos-vcard/contatos-em-json/contatos3.json
